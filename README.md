@@ -43,7 +43,8 @@
 ## SAMPLE File
 *  Before you Customize your NvRam File, suggest you see the SAMPLE File First
 
-
+## QR Code Generate
+*  http://www.liantu.com/
 
 
 
