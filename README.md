@@ -28,10 +28,10 @@
     *  add include path: your CUSTOM_Default.h which define its default value of NvRam file 
       
 * 6.CFG_file_info_custom.h
-    *  Add the header file which define its default value of NvRam file
+    *  Add the related inforamtaion of NaRam file into the definition of "g_akCFG_File_Custom"
     
 * 7.Custom_NvRam_data_item.h
-    *  Add the header file which define its default value of NvRam file
+    *  Add its related inforamtion, including record structure, NvRam lid, and record number
     
     
 ## Attention
