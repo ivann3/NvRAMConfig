@@ -3,7 +3,7 @@
  *
  * @Data: 2016-11-16
  *
- * @Details: Refre to "Customization in NvRAM .pdf"
+ * @Details: Refer to "Customization in NvRAM .pdf"
  *
  * Add the header file which describes the defination of its record:
  * "data structure", "record size", "record numbers"
